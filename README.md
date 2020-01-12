@@ -1,4 +1,4 @@
-预览简历：https://resume.52bess.com/public/
+预览简历：https://resume.itjoker.cn/
 
 ### 使用方法
 
@@ -7,7 +7,7 @@
 3. 执行以下命令：
 
 ```
-git clone https://github.com/bessyjl/resume.git
+git clone https://github.com/ITJoker/resume.git
 cd resume
 npm install
 npm run dev
