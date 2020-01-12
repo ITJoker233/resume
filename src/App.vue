@@ -186,18 +186,17 @@ html{
 
 大家好，我是ITJoker。
 
-位于：浙江。
+位于：浙江杭州。
 
 
 技能
 ====
 
-后端开发
+嵌入式开发
 ----
-  - Java后端开发
-  - spring
-  - 博客系统
-  - 公众号开发
+  - 嵌入式程序开发
+  - 单片机程序开发
+  - 简单的EDA设计
 
 前端开发
 ----
@@ -205,10 +204,10 @@ html{
 
 技术及语言
 ----
-  - 语言: Java, C, SpringMVC
+  - 语言: C, Python,C#,VB,Java(皮毛)
   - DB: SQLServer, MySQL
   - WebServer: apache, nginx, tomcat
-  - OS: Windows 10, Ubuntu, CentOS, MacOS(Hackintosh)
+  - OS: Windows 10, Ubuntu,Debian, CentOS, MacOS(Hackintosh)
   - Others: Docker, git, markdown
 
 工作经历
@@ -219,20 +218,21 @@ html{
 教育经历
 ----
 
-武汉科技大学城市学院
+HDU
 
 链接
 ----
 
 * [GitHub](https://github.com/ITJoker233)
 * [博客](https://blog.itjoker.cn)
+* [介绍页](https://www.itjoker.cn)
 
 勾引方式
 ----
 
 * 微信：不便暴露在公网，可通过邮件获取
 * 电话: 不便暴露在公网，可通过邮件获取
-* 邮箱: aUBpdGpva2VyLmNu
+* 邮箱: aUBpdGpva2VyLmNu (base64)
 
 `, thanksMarkdown: `
 鸣谢
