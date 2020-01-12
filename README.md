@@ -7,7 +7,7 @@
 3. 执行以下命令：
 
 ```
-git clone https://github.com/ITJoker/resume.git
+git clone https://github.com/ITJoker233/resume.git
 cd resume
 npm install
 npm run dev

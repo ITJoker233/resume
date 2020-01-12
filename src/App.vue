@@ -31,8 +31,8 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 源码地址 https://github.com/bessyjl/about
-* 您好，我是Bess Croft。
+* 源码地址 https://github.com/ITJoker233/resume
+* 您好，我是ITJoker。
 * 这是我的简历！
 */
 
@@ -184,11 +184,10 @@ html{
         fullMarkdown: `自我介绍
 ====
 
-大家好，我是Bess Croft。
+大家好，我是ITJoker。
 
-位于：湖北武汉。
+位于：浙江。
 
-学生，还未参加工作，即将踏入社会，想找一份专业对口的实习工作。
 
 技能
 ====
@@ -225,16 +224,15 @@ html{
 链接
 ----
 
-* [GitHub](https://github.com/bessyjl)
-* [博客](https://www.52bess.com)
-* [微信公众号] 爪哇派生
+* [GitHub](https://github.com/ITJoker233)
+* [博客](https://blog.itjoker.cn)
 
 勾引方式
 ----
 
 * 微信：不便暴露在公网，可通过邮件获取
 * 电话: 不便暴露在公网，可通过邮件获取
-* 邮箱: 631908942#qq.com
+* 邮箱: aUBpdGpva2VyLmNu
 
 `, thanksMarkdown: `
 鸣谢
